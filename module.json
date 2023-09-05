@@ -21,5 +21,6 @@
           "name": "English",
           "path": "languages/en.json"
         }
-      ]
+      ],
+      "id": "realm-theme"
   }
