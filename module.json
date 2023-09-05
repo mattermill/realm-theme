@@ -22,5 +22,6 @@
           "path": "languages/en.json"
         }
       ],
+      "url": "https://github.com/mattermill/realm-theme",
       "id": "realm-theme"
   }
