@@ -1,0 +1,25 @@
+{
+    "name": "realm-theme",
+    "title": "Realm - A theme for Pathfinder 2e",
+    "description": "A theme for Pathfinder 2e",
+    "authors": [
+      {
+        "name": "mattermill"
+      }
+    ],
+    "version": "1",
+    "minimumCoreVersion": "0.8.8",
+    "scripts": [
+        "scripts/theme.js"
+      ],
+    "styles": [
+        "styles/theme.css"
+    ],
+    "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "languages/en.json"
+        }
+      ]
+  }
